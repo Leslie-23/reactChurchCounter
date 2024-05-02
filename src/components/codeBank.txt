@@ -1,0 +1,261 @@
+{/* DO NOT EDIT THIS CODE. highly resuable*/}
+<div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">2</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">3</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          {/*  <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">4</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div> */}
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">5</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">6</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">7</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">8</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">9</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">10</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">11</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">12</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">13</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">14</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">15</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">16</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+
+          <div className="attendanceFormsKids">
+            <div className="form-group">
+              <p className="textBoxHeader">CH-A</p>
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+            <div className="form-group">
+              <label>CH-A</label>
+              <input type="number" className="form-control" id="boys" />
+            </div>
+          </div>
+          <div className="attendanceFormsKids">
+            <div className="form-group">
+              <p className="textBoxHeader">CH-B</p>
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+            <div className="form-group">
+              <label>CH-B</label>
+              <input type="number" className="form-control" id="boys" />
+            </div>
+          </div>
+          <div className="attendanceFormsKids">
+            <div className="form-group">
+              <p className="textBoxHeader">CH-C</p>
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+            <div className="form-group">
+              <label>CH-C</label>
+              <input type="number" className="form-control" id="boys" />
+            </div>
+          </div>
+          {/* <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">Teens Dept.</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div> */}
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">Teens Dept </p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">Children (main) </p>
+              <label>Children:</label>
+              <input type="number" className="form-control" id="boys" />
+            </div>
+            <div className="form-group">
+              <label>Children Outside:</label>
+              <input type="number" className="form-control" id="boys" />
+            </div>
+          </div>
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">Outside .</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+
+          <div className="wrapForms">
+            <div className="form-group">
+              <p className="textBoxHeader">Late comers</p>
+              <label>Males:</label>
+              <input type="number" className="form-control" id="totalMales" />
+            </div>
+            <div className="form-group">
+              <label>Females:</label>
+              <input type="number" className="form-control" id="totalFemales" />
+            </div>
+          </div>
+          <div className="form-group">
+            <p className="textBoxHeader">Cars</p>
+
+            <input type="number" className="form-control" id="totalCars" />
+          </div>
