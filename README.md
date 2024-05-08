@@ -6,6 +6,11 @@ Overview
 
 This is an Attendance Management App built with React.js. It allows users to input attendance data for males, females, and children, and calculates the total attendance and the number of cars present.
 
+
+https://github.com/Leslie-23/reactChurchCounter/assets/97734325/2523d103-2aed-4d93-bc8c-b0e25cfc74e0
+
+
+
 Features
 --------
 
