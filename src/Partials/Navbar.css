@@ -33,6 +33,7 @@ body {
 .navbar a:hover {
   background-color: #3498db; /* Hover background color same as default */
   color: #ffffff;
+  cursor: pointer;
 }
 
 .logo {

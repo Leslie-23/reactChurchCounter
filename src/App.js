@@ -2,7 +2,7 @@ import React, { Children } from "react";
 import { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
-import "./Partials/Navbar";
+// import "./Partials/Navbar";
 import jsPDF from "jspdf";
 import Home from "./Home";
 import About from "./About";
