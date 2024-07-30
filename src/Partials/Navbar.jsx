@@ -27,19 +27,15 @@ const Navbar = () => {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <a href="http://localhost:3000/usage.html">Usage</a>
+            <a href="http://wci-spintex.netlify.app/usage.html">Usage</a>
           </li>
           <li>
-            <a href="http://localhost:3000/about.html">About</a>
+            <a href="http://wci-spintex.netlify.app/about.html">About</a>
           </li>
           <li>
-            <a href="http://localhost:3000/contact.html">Contact</a>
+            <a href="http://wci-spintex.netlify.app/contact.html">Contact</a>
           </li>
-          <li>
-            <a href="C:\Users\LESLIE PAUL AJAYI\reactChurchCounter\public\contact.html">
-              Contact
-            </a>
-          </li>
+
           {/* <li>
             <Link to="/about">About</Link>
           </li> */}
