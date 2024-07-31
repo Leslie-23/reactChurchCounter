@@ -173,17 +173,21 @@ const App = () => {
                 />
               </div>
             </div>
-            {/*  <div className="wrapForms">
-            <div className="form-group">
-              <p className="textBoxHeader">4</p>
-              <label>Males:</label>
-              <input type="number" className="form-control" id="totalMales" />
+            <div className="wrapForms">
+              <div className="form-group">
+                <p className="textBoxHeader">4</p>
+                <label>Males:</label>
+                <input type="number" className="form-control" id="totalMales" />
+              </div>
+              <div className="form-group">
+                <label>Females:</label>
+                <input
+                  type="number"
+                  className="form-control"
+                  id="totalFemales"
+                />
+              </div>
             </div>
-            <div className="form-group">
-              <label>Females:</label>
-              <input type="number" className="form-control" id="totalFemales" />
-            </div>
-          </div> */}
             <div className="wrapForms">
               <div className="form-group">
                 <p className="textBoxHeader">5</p>

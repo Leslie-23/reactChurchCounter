@@ -13,8 +13,8 @@ root.render(
   <React.StrictMode>
     <Header />
 
-    {/* <App2 /> */}
-    <App />
+    <App2 />
+    {/* <App /> */}
     <Footer />
   </React.StrictMode>
 );
