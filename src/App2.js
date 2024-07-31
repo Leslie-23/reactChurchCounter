@@ -129,7 +129,7 @@ const App = () => {
     fetch("http://localhost:5000/send-email", {
       method: "POST",
       body: JSON.stringify({
-        email: "ethanmaurice0023@gmail.com", // Replace with recipient email
+        email: "", // Replace with recipient email
         subject: "Attendance Report",
         text: "Please find the attendance report attached.",
         attachment: formData,
